@@ -11,3 +11,10 @@ header{
     background-color: rgb(202, 89, 183);
     text-align: center;
 }
+
+h1{
+    font-size: 2rem;
+    color: white;
+    font-weight: 700;
+}
+
