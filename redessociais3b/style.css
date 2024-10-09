@@ -2,4 +2,12 @@ body {
     background-color: purple;
     color: rgb(234, 225, 243);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height: 100vh;
+    margin: 0;
+
+}
+
+header{
+    background-color: palevioletred;
+    text-align: center;
 }
